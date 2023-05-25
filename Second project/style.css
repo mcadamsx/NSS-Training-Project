@@ -112,7 +112,12 @@ nav ul li a:hover{
     color: #fff;
     letter-spacing: 4px;
     font-weight: 700;
+    cursor: pointer;
 
+}
+.text button a{
+    text-decoration: none;
+    font
 }
 .text button:hover{
     background-color: #00001A;
@@ -162,6 +167,7 @@ nav ul li a:hover{
     .container{
         display:block;
         width: 100%;
+ 
     }
     .avater .web{
         display: none;
@@ -234,4 +240,4 @@ nav ul li a:hover{
     #mobile{
         display: block;
     }
- 
+}
